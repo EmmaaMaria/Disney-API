@@ -1,0 +1,115 @@
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto;
+}
+.box {
+    border: 1px solid #333;
+    height: 20px auto;
+    width: 200px
+}
+.color{
+    background-color: #816051;
+    border-color: #ccb5a1;
+    height: 50px;
+    color: black;
+}
+.buttons{
+    font-size: medium;
+    color: #192538;
+    background-color: #ccb5a1;
+    padding: 5px;
+    border-color: #192538;
+    
+}
+.buttons:hover{
+    background-color: #192538;
+    color: #816051;
+}
+
+th{
+    background-color: #192538;
+    height: 100px;
+    width: 570PX;
+    border-color: #816051;
+    padding-bottom: 5px;
+    
+}
+td{
+    color: black;
+
+}
+h2{
+    color: #ccb5a1;
+}
+
+table,td {
+    margin: auto;
+    width: 100px;
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+    border-color: #816051;
+   
+}
+#error{
+    background-color: #192538;
+    color: #ccb5a1;
+    margin: auto;
+    width: 570px;
+    text-align: center;
+}
+
+table {
+    width: 570px;
+    padding: 20px;
+    margin: auto;
+    border-collapse: collapse;
+    border-color: #ccb5a1;
+}
+tbody{
+    height: 50px;
+}
+
+#main-div{
+    height: 500px auto;
+    width: 570px;
+    margin: auto;
+    background-color: #ccb5a1;
+}
+
+#header{
+    color:#ccb5a1
+}
+
+#list{
+    height: 500px auto;
+    width: 570px;
+    margin: 20px auto;
+    background-color: #ccb5a1;
+    color:black;
+    
+}
+#favs{
+    text-align: center;
+    background-color: #192538;
+    height: 50px;
+    border: 1px solid #ccb5a1;
+    margin: auto;
+    padding-bottom: 5px;
+}
+#random-input{
+    padding: 6px;
+    padding-bottom: 4px;
+}
+
+#space{
+height: 200px;
+width: 570px;
+}
+
+#image{
+    width: 300px;
+}
+
